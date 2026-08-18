@@ -161,7 +161,7 @@ The application will open in your browser.
 
 The interactive application demonstrates:
 
-🔗 **[Live Demo – Seam Carving Application](https://seam-carving-comparative-algorithm-analysis-sw2igsnhczjwqycvrz.streamlit.app/)**
+🔗 **[Live Demo – Seam Carving Application](https://seam-carving-comparative-algorithm-analysis-sw2igsnhczjwyqcvrz.streamlit.app/)**
 
 - Energy map generation
 - Sobel vs Laplacian comparison
